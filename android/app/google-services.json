@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886590566426",
+    "project_id": "ruralreach-759b0",
+    "storage_bucket": "ruralreach-759b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886590566426:android:5eb14358e044eced5621a3",
+        "android_client_info": {
+          "package_name": "com.example.r_r"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886590566426-1rk1r16eh7k12rmh7khg1n999bsi9fl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJpcbMyufc3lefljiX-cZr6Fwe2P7eHbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886590566426-1rk1r16eh7k12rmh7khg1n999bsi9fl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
